@@ -3,7 +3,7 @@
 
 [[projects]]
   digest = "1:4f49887c6a1fba11096f8193088376c651bd74018d5621ce74e2889bfd3b89cd"
-  name = "github.com/appleboy/gofight"
+  name = "github.com/appleboy/gofight/v2"
   packages = ["."]
   pruneopts = "UT"
   revision = "beadc315fb676177c07a89c34159b9ca4e1aafd9"
@@ -191,7 +191,7 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
-    "github.com/appleboy/gofight",
+    "github.com/appleboy/gofight/v2",
     "github.com/gin-gonic/gin",
     "github.com/prometheus/client_golang/prometheus",
     "github.com/prometheus/client_golang/prometheus/promhttp",
