@@ -1,4 +1,4 @@
-module github.com/Depado/ginprom
+module github.com/AlleyPin/ginprom
 
 require (
 	github.com/appleboy/gofight v2.0.0+incompatible
